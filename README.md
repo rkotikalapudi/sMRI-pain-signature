@@ -10,3 +10,6 @@
 
 The dockerfile for the POS is available at [DockerHub](https://hub.docker.com/r/pnilab/ctp-signature/tags). 
 The dockerfile has setup for performing surface-based morphometry, and calculating individual pain sensitivity ratings based on gray matter cortical thickness measures as features for the predictive model.
+
+# Downloads
+The implementation of this pain signature is available as a [GitHub repo](https://github.com/pni-lab/ctp-signature).
