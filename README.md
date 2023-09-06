@@ -7,3 +7,6 @@
 
 **_The main findings regarding model performance, learning rate, feature importance and out-of-center generalizability findings are presented below._**
 ![Main findings](/assets/img/main_fig.jpg)
+
+The dockerfile for the POS is available at [DockerHub](https://hub.docker.com/r/pnilab/ctp-signature/tags). 
+The dockerfile has setup for performing surface-based morphometry, and calculating individual pain sensitivity ratings based on gray matter cortical thickness measures as features for the predictive model.
