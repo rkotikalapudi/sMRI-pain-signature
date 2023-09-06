@@ -6,4 +6,3 @@
 - Our results can be considered as a proof-of-concept for the capacity of brain morphology to predict pain sensitivity, paving the way towards future multimodal brain-based biomarkers of pain.
 
 **Main findings are visualized below**
-![Predictive model for Pain](/figures/main_fig.jpg)
